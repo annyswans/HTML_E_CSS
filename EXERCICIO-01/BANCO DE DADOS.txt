@@ -1,0 +1,34 @@
+("Mercado", "ARROZ CRISTAL 5KG", "2023-07-06", "1", "22.99", "22.99", "MARIANA", "Débito"),
+
+("Mercado", "LIMÃO KG", "2023-07-06", "1.155", "2.49", "2.88", "MARIANA", "Débito"),
+
+("Mercado", "TOMATE KG", "2023-07-06", "0.440", "10.49", "4.62", "MARIANA", "Débito"),
+
+("Mercado", "COCO RALADO SOCOCO", "2023-07-06", "1", "3.99", "3.99", "MARIANA", "Débito"),
+
+("Mercado", "LEITE CONDENSADO", "2023-07-06", "1", "5.99", "5.99", "MARIANA", "Débito"),
+
+("Mercado", "CHÁ LEÃO 16G PRETO", "2023-07-06", "1", "2.99", "2.99", "MARIANA", "Débito"),
+
+("Mercado", "CHÁ LEÃO 16G HORTELA", "2023-07-06", "1", "3.99", "3.99", "MARIANA", "Débito"),
+
+("Mercado", "CHÁ MATTE LEÃO 100G", "2023-07-06", "1", "4.99", "4.99", "MARIANA", "Débito"),
+
+("Mercado", "CREME DENTAL COLGATE", "2023-07-06", "1", "6.99", "6.99", "MARIANA", "Débito"),
+
+("Mercado", "PASTILHA GAROTO", "2023-07-06", "2", "1.49", "2.98", "MARIANA", "Débito"),
+
+("Mercado", "ACEM KG", "2023-07-06", "1.188", "19.99", "23.75", "MARIANA", "Débito"),
+
+("Mercado", "CONTRA FILE KG", "2023-07-06", "1.130", "29.99", "33.89", "MARIANA", "Débito"),
+
+("Mercado", "ÓLEO DE SOJA SOYA 900ML", "2023-07-06", "1", "7.49", "7.49", "MARIANA", "Débito"),
+
+("Mercado", "HASTES TOPS 150UN", "2023-07-06", "1", "4.99", "4.99", "MARIANA", "Débito"),
+
+("Mercado", "POLVILHO AZEDO 500G", "2023-07-06", "1", "11.99", "11.99", "MARIANA", "Débito"),
+
+("Mercado", "INSET RAID AEROSOL 420ML", "2023-07-06", "1", "18.99", "18.99", "MARIANA", "Débito"),
+
+
+
